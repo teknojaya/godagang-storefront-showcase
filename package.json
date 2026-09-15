@@ -1,0 +1,19 @@
+{
+  "name": "godagang-storefront-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Next.js multi-tenant commerce storefront showcase with dynamic templates, theming, caching and performance-focused architecture.",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "typescript": "^5.9.0"
+  }
+}
