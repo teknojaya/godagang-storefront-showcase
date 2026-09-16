@@ -104,9 +104,9 @@ src/examples/
 
 Every file above is marked as a **representative sanitized example** in its own header comment.
 
-## 14. Screenshots
+## 14. Live Product
 
-Not yet included — see [`screenshots/README.md`](screenshots/README.md) for exactly which ones I still need to add (from a demo store only) and why none are here yet rather than a stale or risky substitute.
+GoDagang is live in production, with every merchant's storefront served by this codebase on their own subdomain: https://godagang.id
 
 ## 15. My Role
 
